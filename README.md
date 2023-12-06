@@ -19,7 +19,7 @@ I created this repository for the Mixed Messages portfolio project from Codecade
 2. Navigate to the project directory.
 
    ```bash
-   cd villain-monologue-generator
+   cd Mixed-Messages
    ```
 
 ### Usage
