@@ -44,6 +44,9 @@ Feel free to customise the arrays in the main.js file to add more elements and i
 - **User Interaction:** Allow users to trigger the generation of a new monologue through prompts or buttons.
 - **Persistence:** Implement local storage or a backend server for saving and retrieving user preferences.
 
+## Advanced JavaScript Branch
+Check out the [advanced-javascript](https://github.com/CalebTPK/Mixed-Messages/tree/advanced-javascript) branch for a version that includes more advanced JavaScript concepts.
+
 ## Contributors
 
 [CalebTPK](https://github.com/CalebTPK)
