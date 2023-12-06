@@ -34,9 +34,9 @@ I created this repository for the Mixed Messages portfolio project from Codecade
 3. Follow the prompts to generate a new villainous monologue.
 4. Enjoy the absurdity of your freshly crafted villain monologue!
 
-### Customization
+### Customisation
 
-Feel free to customize the arrays in the main.js file to add more elements and increase the variety of generated monologues.
+Feel free to customise the arrays in the main.js file to add more elements and increase the variety of generated monologues.
 
 ## Additional Features
 
