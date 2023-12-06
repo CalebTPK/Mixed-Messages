@@ -13,7 +13,7 @@ I created this repository for the Mixed Messages portfolio project from Codecade
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/villain-monologue-generator.git
+   git clone https://github.com/CalebTPK/Mixed-Messages.git
    ```
 
 2. Navigate to the project directory.
