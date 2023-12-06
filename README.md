@@ -50,6 +50,6 @@ Feel free to customize the arrays in the main.js file to add more elements and i
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
    
